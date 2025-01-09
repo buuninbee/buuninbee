@@ -1,6 +1,6 @@
 ### Ola 👋
 
-Eu sou Bruno Silva, um desenvolvedor de software entusiasta de tecnologia. Meu foco principal é o desenvolvimento frontend, onde me especializei na construção de aplicações web interativas e amigáveis. Tenho conhecimento de HTML, CSS, JavaScript e Typescript, e sou proficiente em frameworks e bibliotecas populares como React.
+Eu sou Bruno Silva, um desenvolvedor de software entusiasta de tecnologia. Meu foco principal é o desenvolvimento frontend, onde me especializei na construção de aplicações web interativas e amigáveis. Tenho conhecimento em ReactJS, NextJS, Tailwindcss, Styled-Components, TypeScript, Restful e GraphQl.
 
 Eu amo trabalhar no frontend porque isso me permite combinar minha criatividade com habilidades de resolução de problemas para oferecer experiências de usuário excepcionais.
 
