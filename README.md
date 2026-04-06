@@ -1,4 +1,4 @@
-### Ola 👋
+### Olá
 
 Eu sou Bruno Silva, um desenvolvedor de software. Meu foco principal é o desenvolvimento full-stack, onde me especializei na construção de aplicações web interativas e amigáveis. Tenho conhecimento em ReactJS, NextJS, Node, Python, SQL, Tailwindcss, TypeScript, RESTful API e GraphQl.
 
